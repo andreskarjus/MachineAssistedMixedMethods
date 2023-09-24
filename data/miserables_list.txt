@@ -1,0 +1,127 @@
+"Abbé Halma","M. Larose",1
+"Babet","Claquesous",1
+"Babet","Gueulemer",1
+"Babet","Thénardier",1
+"Bahorel","Combeferre",1
+"Bahorel","Courfeyrac",1
+"Bahorel","Jean Prouvaire",1
+"Basque","Jean Valjean",1
+"Blachevelle","Zéphine",1
+"Bossuet","Bahorel",1
+"Bossuet","Feuilly",1
+"Bossuet","Grantaire",1
+"Bossuet","Joly",1
+"Boulatruelle","Patron-Minette",1
+"Brother","Jean Valjean",1
+"Brujon","Gueulemer",1
+"Combeferre","Bahorel",1
+"Combeferre","Bossuet",1
+"Combeferre","Courfeyrac",1
+"Combeferre","Jean Prouvaire",1
+"Combeferre","Jean Valjean",1
+"Cosette","Éponine",1
+"Cosette","Jean Valjean",1
+"Cosette","M. Gillenormand",1
+"Cosette","Madame Thénardier",1
+"Cosette","Thénardiers",1
+"Courfeyrac","Father Mabeuf",1
+"Courfeyrac","Thénardier",1
+"Éponine","Marius",1
+"Fantine","Inspector Javert",1
+"Fantine","Javert",1
+"Fantine","Monsieur Thénardier",1
+"Fantine","Sister Simplice",1
+"Fantine","Thénardiers",1
+"Favourite","Blachevelle",1
+"Feuilly","Bahorel",1
+"Feuilly","Combeferre",1
+"Gavroche","Bahorel",1
+"Gavroche","Feuilly",1
+"Gavroche","Guelemer",1
+"Gavroche","Javert",1
+"Gavroche","Jean Prouvaire",1
+"Gavroche","Marius",1
+"Gavroche","Monsieur Mabeuf",1
+"Gavroche","Thénardier",1
+"Georges Pontmercy","Abbé Mabeuf",1
+"Georges Pontmercy","Berthier",1
+"Georges Pontmercy","Dubois",1
+"Georges Pontmercy","Houchard",1
+"Georges Pontmercy","Joubert",1
+"Georges Pontmercy","Kléber",1
+"Georges Pontmercy","Louis Hugo",1
+"Georges Pontmercy","Mademoiselle Gillenormand",1
+"Georges Pontmercy","Maupetit",1
+"Georges Pontmercy","Napoleon",1
+"Grantaire","Bossuet",1
+"Grantaire","Laigle",1
+"Grantaire","Matelote",1
+"Gueulemer","Claquesous",1
+"Javert","Artonge",1
+"Javert","Bigrenaille",1
+"Javert","Brevet",1
+"Javert","Champmathieu",1
+"Javert","Enjolras",1
+"Javert","M. Charcellay",1
+"Javert","Madame Renée le Bossé",1
+"Javert","Thénardier",1
+"Javert","Thénardiers",1
+"Javert","Widow Doris",1
+"Javert","Woman Buseaupied",1
+"Jean Prouvaire","None",1
+"Jean Valjean","Jean Valjean",1
+"Jean Valjean","Jeanne Mathieu",1
+"Jean Valjean","Little Gervais",1
+"Jean Valjean","M. Gillenormand",1
+"Jean Valjean","Madame Bourgon",1
+"Jean Valjean","Madame Magloire",1
+"Jean Valjean","Mademoiselle Baptistine",1
+"Jean Valjean","Marius Pontmercy",1
+"Jean Valjean","Sister Simplice",1
+"Jean Valjean","The Bishop",1
+"Jean Valjean","Thénardiers",1
+
+"Jean Valjean","Toussaint",1
+"Jean Valjean","Jean Valjean",1
+"Jeanne","Barricade at Saint-Merry",1
+"Jeanne","Barricade of the Rue Maubuée",1
+"Jeanne","Rue Aubry-le-Boucher",1
+"Jeanne","Rue des Arcis",1
+"Jeanne","Rue Saint-Martin",1
+"Jeanne","Six hundred companions",1
+"Joly","Bahorel",1
+"Joly","Combeferre",1
+"Joly","Courfeyrac",1
+"Joly","Grantaire",1
+"Joly","Jean Prouvaire",1
+"Joly","Laigle",1
+"Joly","Mame Hucheloup",1
+"Eponine Thenardier","Marius Pontmercy",1
+"Thenardier","Madame Thenardier",1
+"Thenardier","Marius Pontmercy",1
+"Thenardier","Monsieur Thenardier",1
+"Laigle de Meaux","Blondeau",1
+"Laigle de Meaux","Grantaire",1
+"Laigle de Meaux","Joly",1
+"Laigle de Meaux","Marius Pontmercy",1
+"Laigle de Meaux","Navet",1
+"Le Cabuc","Enjolras",1
+"Gavroche Thenardier","Brujon",1
+"Gavroche Thenardier","Guelemer",1
+"Lon la","Jeanne",1
+"Lon la","Pierrot",1
+"Jean Valjean","Jean Valjean",1
+"Monsieur Gillenormand","Marius Pontmercy",1
+"Monsieur Gillenormand","Magnon",1
+"Monsieur Gillenormand","Théodule",1
+"Jean Valjean","Javert",1
+"M. Mabeuf","Marius Pontmercy",1
+"M. Mabeuf","Mother Plutarque",1
+"Jean Valjean","Brevet",1
+"Jean Valjean","Chenildieu",1
+"Jean Valjean","Cochepaille",1
+"Jean Valjean","Javert",1
+"Jean Valjean","Fauchelevent",1
+"M. Myriel","M. Myriel",1
+"M. Myriel","M. Myriel",1
+"Mabeuf","Javert",1
