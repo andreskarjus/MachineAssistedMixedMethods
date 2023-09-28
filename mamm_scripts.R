@@ -192,7 +192,7 @@ singletester = function(test=NULL, labels=NULL, gptmodel="gpt-3.5-turbo", max_at
   
   # if data frame then takes and appends column, if vector then outputs vector
   if(is.data.frame(test)){
-    batches = as.data.frame(test)[, column, drop=T] # in case tibble
+    batches = as.data.frame(ungroup(test))[, column, drop=T] # in case tibble
   } else {
     batches=test
   }
