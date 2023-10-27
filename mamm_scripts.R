@@ -553,6 +553,7 @@ dosemranks = function(dat, truth,nmax=30){
   set.seed(1)
   dat = dat %>% 
     mutate(resnum = case_match(result, "Same"~1, "Related"~2, "Linked"~3, "Distinct"~4))
+  
   bootfun = function(dat, indices, npairs, truth){
     dat %>% 
       group_by(target) %>% 
